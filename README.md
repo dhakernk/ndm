@@ -1,21 +1,17 @@
-Microsoft Windows [Version 6.3.9600]
-(c) 2013 Microsoft Corporation. All rights reserved.
+# Java Program lets you generate Sample CDR Data used by telco's
+## Program was developed for load testing of system 
 
-C:\Users\NKDHAKER>E:
+>Cd src
 
-E:\>Cd src
+src>javac Task1.java
 
-E:\src>javac Task1.java
-
-E:\src>java task1
-Error: Could not find or load main class task1
-
-E:\src>java Task1
+src>java Task1
 Check details in File 'Mobile_No_Prefix'
 
 Chose Your operation:
 1: File BY Date:
 2: File BY Month
+
 1
 Enter No. of Records per File:
 2000
@@ -37,5 +33,5 @@ File NO:3
 File NO:2
 File NO:1
 
-E:\src>
+src>
 
