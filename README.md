@@ -1,2 +1,0 @@
-# ndm
-learning web development 
