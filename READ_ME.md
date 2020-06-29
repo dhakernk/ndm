@@ -3,14 +3,14 @@ Microsoft Windows [Version 6.3.9600]
 
 C:\Users\NKDHAKER>E:
 
-E:\>Cd eclipse\comviva_file\src
+E:\>Cd src
 
-E:\Eclipse\Comviva_File\src>javac Task1.java
+E:\src>javac Task1.java
 
-E:\Eclipse\Comviva_File\src>java task1
+E:\src>java task1
 Error: Could not find or load main class task1
 
-E:\Eclipse\Comviva_File\src>java Task1
+E:\src>java Task1
 Check details in File 'Mobile_No_Prefix'
 
 Chose Your operation:
@@ -37,5 +37,5 @@ File NO:3
 File NO:2
 File NO:1
 
-E:\Eclipse\Comviva_File\src>
+E:\src>
 
